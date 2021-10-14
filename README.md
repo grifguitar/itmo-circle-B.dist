@@ -4,4 +4,4 @@
 
 ## План курса:
 
-+[Занятие 1. Графы, dfs и bfs (13 октября)](https://github.com/grifguitar/itmo-circle-B.dist/tree/main/lecture1_graphs_dfs)
++ [Занятие 1. Графы, dfs и bfs (13 октября)](https://github.com/grifguitar/itmo-circle-B.dist/tree/main/lecture1_graphs_dfs)
