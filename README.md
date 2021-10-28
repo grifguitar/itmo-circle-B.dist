@@ -5,3 +5,7 @@
 ## План курса:
 
 + [Занятие 1: Графы, dfs и bfs (13 октября)](https://github.com/grifguitar/itmo-circle-B.dist/tree/main/lecture1_graphs_dfs)
++ [Занятие 2: Графы, t_in и t_out, поиск мостов (20 октября)](https://github.com/grifguitar/itmo-circle-B.dist/tree/main/lecture2_graphs_bridges)
++ [Занятие 3: Практика (27 октября)](https://github.com/grifguitar/itmo-circle-B.dist)
++ [на будущее: Кратчайшие пути в графах? (3 ноября)](https://github.com/grifguitar/itmo-circle-B.dist)
++ 
