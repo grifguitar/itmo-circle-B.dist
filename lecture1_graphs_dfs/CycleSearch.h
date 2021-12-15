@@ -2,11 +2,11 @@
 // Created by Grigoriy Khlytin on 14.10.2021.
 //
 
-#include <iostream>
-#include <vector>
-
 #ifndef ITMO_CIRCLE_B_DIST_CYCLESEARCH_H
 #define ITMO_CIRCLE_B_DIST_CYCLESEARCH_H
+
+#include <iostream>
+#include <vector>
 
 class CycleSearch {
 public:
