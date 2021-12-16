@@ -1,16 +1,13 @@
 //
-// Created by Grigoriy Khlytin on 14.10.2021.
+// Updated by Grigoriy Khlytin on 16.12.2021.
 //
 
-#include "lecture1_graphs_dfs/CycleSearch.h"
+#include "lecture_search_tree/SearchTree.h"
 
 int main() {
 
-    //используем наш класс, который будет искать цикл
-    CycleSearch cycleSearch;
-
     //запустим решение
-    cycleSearch.solve();
+    SearchTree::solve();
 
     return 0;
 }

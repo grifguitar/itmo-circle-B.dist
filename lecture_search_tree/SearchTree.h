@@ -8,31 +8,12 @@
 #include <iostream>
 #include <vector>
 #include <random>
+#include <string>
+#include <set>
 
 class SearchTree {
 public:
-
-    class Tree {
-    public:
-        int value;
-        int priority;
-        Tree *leftSubTree;
-        Tree *rightSubTree;
-
-        explicit Tree(int x);
-
-        explicit Tree(int x, int y);
-
-        explicit Tree(int x, int y, Tree *left, Tree *right);
-
-    };
-
-    typedef Tree *Node;
-
-    Node merge(Node leftTree, Node rightTree);
-
-    std::pair<Node, Node> split(Node tree);
-
+    static bool solve();
 };
 
 #endif //ITMO_CIRCLE_B_DIST_SEARCHTREE_H
