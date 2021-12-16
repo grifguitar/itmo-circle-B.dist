@@ -151,13 +151,13 @@ void print_tree(Node node, int depth) {
     if (left != NUL) {
         print_tree(left, depth + 4);
     } else {
-        cout << do_space(depth) << "-" << "\n";
+        cout << do_space(depth) << "*" << "\n";
     }
     cout << do_space(depth) << "[" << x << ", " << y << "]" << "\n";
     if (right != NUL) {
         print_tree(right, depth + 4);
     } else {
-        cout << do_space(depth) << "-" << "\n";
+        cout << do_space(depth) << "*" << "\n";
     }
     cout << do_space(depth) << ")" << "\n";
 }
